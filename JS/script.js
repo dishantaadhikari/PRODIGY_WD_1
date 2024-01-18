@@ -4,7 +4,7 @@ class specialHeader extends HTMLElement {
         this.innerHTML = `
             <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top border rounded-1">
                 <div class="container-sm">
-                    <a class="navbar-brand navbar-custom" href="#">Welcome</a>
+                    <a class="navbar-brand navbar-custom" href="./index.html">Welcome</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span><svg xmlns="http://www.w3.org/2000/svg" width="20" height="30" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
                         <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"></path>
